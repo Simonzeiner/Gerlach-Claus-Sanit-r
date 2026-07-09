@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://simonzeiner.github.io/Gerlach-Claus-Sanit-r/sitemap.xml
