@@ -9,6 +9,7 @@ Premium-Onepage für einen Sanitärbetrieb in Mainz. Die Seite ist statisch, res
 - SEO-Grundlagen mit Meta-Tags, Schema.org, Sitemap und Robots
 - Dezente Animationen mit Reduced-Motion-Unterstützung
 - Keine Build-Abhängigkeiten
+- GitHub-Pages-Workflow für automatische Veröffentlichung
 
 ## Vor Veröffentlichung ergänzen
 
