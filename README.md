@@ -1,6 +1,6 @@
-# Gerlach Claus Sanitär Mainz
+# Claus Gerlach Gas-Wasserinstallation Mainz
 
-Premium-Onepage für einen Sanitärbetrieb in Mainz. Die Seite ist statisch, responsive und direkt für GitHub Pages geeignet.
+Premium-Onepage für einen Gas- und Wasserinstallationsbetrieb in Mainz. Die Seite ist statisch, responsive und direkt für GitHub Pages geeignet.
 
 ## Enthalten
 
@@ -11,10 +11,14 @@ Premium-Onepage für einen Sanitärbetrieb in Mainz. Die Seite ist statisch, res
 - Keine Build-Abhängigkeiten
 - GitHub-Pages-Workflow für automatische Veröffentlichung
 
+## Eingetragene Kontaktdaten
+
+- Telefon: 06131 8384251
+- Adresse: Augustinerstr. 57, 55116 Mainz
+
 ## Vor Veröffentlichung ergänzen
 
-- Echte Telefonnummer
-- Echte E-Mail-Adresse
-- Vollständige Anschrift
+- E-Mail-Adresse, falls gewünscht
+- Öffnungszeiten, falls gewünscht
 - Impressum und Datenschutz
 - Echte Referenzen, Kundenstimmen und ggf. Notdienstzeiten
